@@ -1,3 +1,5 @@
+I ran this on Ubuntu 18.04. 
+
 This file contains materials for one instance of the attacklab.
 
 Files:
